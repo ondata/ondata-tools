@@ -1,3 +1,9 @@
 [submodule "pivot-reverser"]
 	path = pivot-reverser
 	url = https://github.com/ondata/ondata-tool-pivot-reverser.git
+[submodule "simple-pivoter"]
+	path = simple-pivoter
+	url = https://github.com/ondata/ondata-tool-simple-pivoter.git
+[submodule "table-transposer"]
+	path = table-transposer
+	url = https://github.com/ondata/ondata-tool-table-transposer.git
